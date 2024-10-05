@@ -20,10 +20,10 @@ pub mod virtual_methods;
 pub mod work_mode;
 
 pub use self::{
-    child_properties::{ChildProperties, ChildProperty},
-    config::Config,
-    gobjects::GObject,
-    property_generate_flags::PropertyGenerateFlags,
-    string_type::StringType,
-    work_mode::WorkMode,
+	child_properties::{ChildProperties, ChildProperty},
+	config::Config,
+	gobjects::GObject,
+	property_generate_flags::PropertyGenerateFlags,
+	string_type::StringType,
+	work_mode::WorkMode,
 };
